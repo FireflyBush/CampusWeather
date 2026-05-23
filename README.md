@@ -1,6 +1,6 @@
-# 深圳天气监控 Rainmeter 皮肤
+# “校园晴雨表”桌面皮肤
 
-一款基于 Python 脚本抓取数据 + Rainmeter 渲染界面的轻量级桌面天气插件，专为深圳市气象局公开数据源设计。集成实时气象、3日预报、官方预警信号与2小时短时降雨预报功能，内置断网保护与智能容错机制，确保桌面显示稳定可靠。
+由深圳市高级中学气象社（深气联成员）设计的一款基于 Python 脚本抓取数据 + Rainmeter 渲染界面的轻量级桌面天气插件。集成实时气象、3日预报、官方预警信号与2小时短时降雨预报功能。
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Rainmeter](https://img.shields.io/badge/Rainmeter-4.5.0+-blue.svg)
@@ -19,7 +19,7 @@
 ## 📋 环境要求
 
 - **Rainmeter**: 4.5.0 或以上版本
-- **Python**: 3.x (需配置好环境变量，确保 Rainmeter 能调用 `python` 命令)
+- **Python**: 3.x (**.rmskin安装版已经嵌入好相关文件，无需另行安装**)
 
 ## 🚀 安装步骤
 
@@ -33,7 +33,7 @@
    - 打开 Rainmeter 管理器。
    - 找到 `ShenzhenWeather` 分类下的 `szw.ini`。
    - 点击"加载"。
-   - *首次运行约需等待7秒完成数据获取与界面刷新。*
+   - *首次运行约需点击右上角“刷新”按钮等待7秒完成数据获取与界面刷新。*
 
 ## 📂 目录结构
 
