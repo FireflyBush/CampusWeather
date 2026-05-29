@@ -24,27 +24,31 @@
 
 ## 🚀 安装步骤
 
-0. **安装Rainmeter桌面美化软件**  
-✅️可在[Rainmeter网站官网](https://www.rainmeter.net/)或[其Github仓库](https://github.com/rainmeter/rainmeter/releases)下载最新版，这是一款能够在桌面上显示各种可自定义“皮肤”的软件，本插件目前亦依赖其进行显示。
-安装完成后该软件会显示自带的欢迎界面和系统性能看板皮肤，右键其并点击“关闭皮肤”可以关闭。
 
-![软件自带皮肤](https://github.com/user-attachments/assets/f0bd48a6-8882-42ae-bd2b-d7f38c96b415)
+1. **安装Rainmeter桌面美化软件**
 
-2. **部署/安装皮肤**  
-   将本项目所有文件复制至 Rainmeter 皮肤目录的一个子文件夹下，比如：
-   ```
-   %USERPROFILE%\Documents（*注：即为当前用户的“文档”文件夹）\Rainmeter\Skins\CampusWeather\
-   ```
-   当然也可以通过双击“.rmskin”皮肤包直接安装，如果采取本方法，完成当前步骤后插件就可以正常加载了。
-   .rmskin皮肤包可以在本仓库的Releases下载到。
-   
-![通过.rmskin文件安装](https://github.com/user-attachments/assets/428159f1-b5b9-494e-98c8-3f9515fc5fdb)
+	✅️可在[Rainmeter网站官网](https://www.rainmeter.net/)或[其Github仓库](https://github.com/rainmeter/rainmeter/releases)下载最新版，这是一款能够在桌面上显示各种可自定义“皮肤”的软件，本插件目前亦依赖其进行显示。
+	安装完成后该软件会显示自带的欢迎界面和系统性能看板皮肤，右键其并点击“关闭皮肤”可以关闭。
+	
+	![软件自带皮肤](https://github.com/user-attachments/assets/f0bd48a6-8882-42ae-bd2b-d7f38c96b415)
 
-3. **加载皮肤**  
-   - 打开 Rainmeter 管理器。(任务栏托盘雨滴图标右键>管理)
-   - 找到 `CampusWeather` 文件夹下的 `szw.ini`。
-   - 点击右侧窗口中的"加载"按钮。
-   - *首次运行需点击右上角“刷新”按钮等待7秒左右完成数据获取与界面刷新。*
+2. **部署/安装皮肤**
+
+	将本项目所有文件复制至 Rainmeter 皮肤目录的一个子文件夹下，比如：
+	```
+	%USERPROFILE%\Documents（*注：即为当前用户的“文档”文件夹）\Rainmeter\Skins\CampusWeather\
+	```
+	当然也可以通过双击“.rmskin”皮肤包直接安装，如果采取本方法，完成当前步骤后插件就可以正常加载了。
+	.rmskin皮肤包可以在本仓库的Releases下载。
+	
+	![通过.rmskin文件安装](https://github.com/user-attachments/assets/428159f1-b5b9-494e-98c8-3f9515fc5fdb)
+
+3. **加载皮肤**
+
+	- 打开 Rainmeter 管理器。(任务栏托盘雨滴图标右键>管理)
+	- 找到 `CampusWeather` 文件夹下的 `szw.ini`。
+	- 点击右侧窗口中的"加载"按钮。
+	- *首次运行需点击右上角“刷新”按钮等待7秒左右完成数据获取与界面刷新。*
 
 ## 🔍 工作原理
 
@@ -58,13 +62,13 @@
 ## ❓ 注意事项
 
 - **免责声明**  
-  ❗️本项目仅用于桌面美化与学习研究，不作为官方气象信息发布渠道。数据精度与时效性以深圳市气象局官网为准，防灾减灾综合信息请以深圳市政府官方通报为准。
-  ❗️本项目数据来源于市气象局官网等处的网络接口，其数据均对社会公开可查，下载使用本项目者应遵循相关法律法规，不得滥用。
+❗️  本项目仅用于桌面美化与学习研究，不作为官方气象信息发布渠道。数据精度与时效性以深圳市气象局官网为准，防灾减灾综合信息请以深圳市政府官方通报为准。
+❗️  本项目数据来源于市气象局官网等处的网络接口，其数据均对社会公开可查，下载使用本项目者应遵循相关法律法规，不得滥用。
 
 ## 🙏 致谢
 
 - **数据来源**: [深圳市气象局](http://weather.sz.gov.cn/)
-- **体感温度算法**: 基于 Steadman 表观温度公式本地化改良
+- **界面字体**: [GWM Sans 中文](https://www.gwm.com.cn/gwmsans/fontdownload.html)
 
 ---
 *Made with ❤️ for Shenzhen Weather*
