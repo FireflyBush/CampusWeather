@@ -28,7 +28,7 @@
 1. **安装Rainmeter桌面美化软件**
 
 	✅️可在[Rainmeter网站官网](https://www.rainmeter.net/)或[其Github仓库](https://github.com/rainmeter/rainmeter/releases)下载最新版，这是一款能够在桌面上显示各种可自定义“皮肤”的软件，本插件目前亦依赖其进行显示。
-	安装完成后该软件会显示自带的欢迎界面和系统性能看板皮肤，右键其并点击“关闭皮肤”可以关闭。
+	完成安装后该软件会显示自带的欢迎界面和系统性能看板皮肤，右键其并点击“关闭皮肤”可以关闭。
 	
 	![软件自带皮肤](https://github.com/user-attachments/assets/f0bd48a6-8882-42ae-bd2b-d7f38c96b415)
 
@@ -51,7 +51,7 @@
 	- *首次运行需点击右上角“刷新”按钮等待7秒左右完成数据获取与界面刷新。*
 	- 建议使用下面截图中的皮肤设置（右键插件打开菜单进行设置）
 	
-	![推荐设置](https://github.com/user-attachments/assets/4f86ede1-43b9-4bb1-920c-694fcf17d69a)
+	![推荐设置](https://raw.githubusercontent.com/FireflyBush/CampusWeather/1c312dc592a411248a42039e159b4e5745b801c3/data/icons/%E6%8E%A8%E8%8D%90%E8%AE%BE%E7%BD%AE.jpg)
 
 ## 🔍 工作原理
 
