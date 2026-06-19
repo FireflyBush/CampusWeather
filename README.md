@@ -24,6 +24,7 @@
 
 ## 🚀 安装步骤
 
+
 1. **安装Rainmeter桌面美化软件**
 
 	✅️可在[Rainmeter网站官网](https://www.rainmeter.net/)或[其Github仓库](https://github.com/rainmeter/rainmeter/releases)下载最新版，这是一款能够在桌面上显示各种可自定义“皮肤”的软件，本插件目前亦依赖其进行显示。
